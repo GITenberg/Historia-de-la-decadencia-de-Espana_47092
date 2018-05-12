@@ -1,4 +1,8 @@
 _repo: Historia-de-la-decadencia-de-Espana_47092
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47092-h/images/cover.jpg
 creator:
   author:
     agent_name: Cánovas del Castillo, António
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44129
     wikipedia: http://en.wikipedia.org/wiki/Antonio_C%C3%A1novas_del_Castillo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47092#Historia-de-la-decadencia-de-Espana
 gutenberg_issued: '2014-10-11'
 gutenberg_type: Text
 identifiers:
